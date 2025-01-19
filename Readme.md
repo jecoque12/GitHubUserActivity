@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ## GitHubUserActivity
 
 this is a sample solution of [git hub user activity](https://roadmap.sh/projects/github-user-activity) of roadmap.sh with dotnet c#
