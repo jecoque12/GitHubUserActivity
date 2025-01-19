@@ -2,7 +2,6 @@
 using GitHubUserActivity;
 using System.Net.Http.Json;
 Console.ForegroundColor = ConsoleColor.White;
-Console.WriteLine("Hello, World!");
 
 if (args.Length == 0)
 {
